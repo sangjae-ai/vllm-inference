@@ -1,0 +1,9 @@
+.env
+venv
+.ipynb_checkpoints
+model_files
+gemma3-12b-it
+gemma3-4b-it
+gemma3-config
+Qwen2.5-7B-Instruct
+*.tar.gz

@@ -1,0 +1,8 @@
+sagemaker
+boto3
+ipykernel
+torch
+vllm
+transformers
+python-dotenv
+huggingface_hub
